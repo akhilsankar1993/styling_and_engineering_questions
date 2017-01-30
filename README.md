@@ -1,5 +1,7 @@
 #### Button Styling
 
+![Formatted Button](./button_formatting/formatted_button.png)
+
 Here are some of the disadvantages of my approach. I have also included a few revisions I would like to make to my process in the future:
 
   - Eyeballing the styling of the button on the template, which led to an inaccurate configuration of gradients and shadowing. For example, I tried to account for the heavier gray component of the gradient on the button half of the button by generating a larger inset box shadow, which did not work effectively.
