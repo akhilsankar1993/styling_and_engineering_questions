@@ -20,7 +20,7 @@ What are the most important questions you have about the mocks and how they shou
 
   - M1 & M2: Are there common UI elements on these mockups that can be generated from an existing standardized company (or established 3rd party) library? What are the exact color schemes that need to used, to match with company established standards?
 
-  - M1 & M2: Is there a preexisting library used to handle mapping the room iFrame? What are the exact requirements of navigating the room on the iFrame? On what basis are the '+' points populated on the iFrame? How are these items identified? Will the identification mechanism change in the future? Where does the data for these items come from? Is there an a mockup to to handle when a failed data call is made?
+  - M1 & M2: Is there a preexisting library used to handle mapping the room iframe? What are the exact requirements of navigating the room on the iframe? On what basis are the '+' points populated on the iframe? How are these items identified? Will the identification mechanism change in the future? Where does the data for these items come from? Is there an a mockup to to handle when a failed data call is made?
 
   - M1: What does the toggle button by the 'Your Living Room Concept' title do?
 
@@ -28,8 +28,8 @@ What are the most important questions you have about the mocks and how they shou
 
 What seems like, potentially, the biggest unknown?
 
-  - Generating a dynamic iFrame that can be populated with different schematics so that it does not have to be updated constantly to handle changing technologies. Additionally, how is the correct data linked to the correct item in the room? Is that hardcoded in an API call? How will that change in the future?
+  - Generating a dynamic iframe that can be populated with different schematics so that it does not have to be updated constantly to handle changing technologies. Additionally, how is the correct data linked to the correct item in the room? Is that hardcoded in an API call? How will that change in the future?
 
 What changes would you recommend making to make this interface work well on mobile?
 
-  - Generating mockups of rooms using panoramic pictures and then simulating new items in real time (right on the phone) from a preexisting plan, superimposed onto the iFrame would be more engaging to the mobile user. 
+  - Generating mockups of rooms using panoramic pictures and then simulating new items in real time (right on the phone) from a preexisting plan, superimposed onto the iframe would be more engaging to the mobile user.
