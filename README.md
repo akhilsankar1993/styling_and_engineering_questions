@@ -10,8 +10,7 @@ Here are some of the disadvantages of my approach. I have also included a few re
 
 #### Feature Breakdown
 
-Mockup 1: M1
-Mockup 2: M2
+mockup 1: M1, mockup 2: M2
 
 What are the most important questions you have about the mocks and how they should work?
 
@@ -33,4 +32,4 @@ What seems like, potentially, the biggest unknown?
 
 What changes would you recommend making to make this interface work well on mobile?
 
-  - 
+  - Generating mockups of rooms using panoramic pictures and then simulating new items in real time (right on the phone) from a preexisting plan, superimposed onto the iFrame would be more engaging to the mobile user. 
